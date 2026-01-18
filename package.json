@@ -1,6 +1,6 @@
 {
   "name": "rahvion-msp-platform",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "14.2.3",
+    "next": "latest",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "lucide-react": "^0.378.0",
@@ -25,7 +25,7 @@
     "postcss": "^8.4.38",
     "tailwindcss": "^3.4.3",
     "eslint": "^8.57.0",
-    "eslint-config-next": "14.2.3"
+    "eslint-config-next": "latest"
   },
   "engines": {
     "node": ">=18.17.0"
